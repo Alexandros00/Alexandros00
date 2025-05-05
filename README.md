@@ -22,7 +22,7 @@ I'm Alexandros, a frontend developer focused on building performant, responsive,
 - **Frameworks & Libraries**: React, Next.js, Redux, React Query, React Router, Formik, Yup
 - **Testing**: Vitest, Testing Library, Cypress
 - **Styling**: SCSS, CSS Modules, React-JSS
-- **Build & Tooling**: Vite, Webpack, Docker, GitHub Actions
+- **Build & Tooling**: Vite, Docker, GitHub Actions
 - **UI/UX**: Responsive Design, Semantic HTML, ARIA, i18next
 - **Optimization**: Lazy Loading, SSR, SEO basics
 - **Other**: Git, Linux, Figma, Microsoft Office
