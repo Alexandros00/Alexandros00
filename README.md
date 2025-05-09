@@ -18,8 +18,8 @@ I'm Alexandros, a frontend developer focused on building performant, responsive,
 
 ## 🛠️ Tech Stack
 
-- **Languages**: TypeScript, JavaScript, HTML5, CSS3
-- **Frameworks & Libraries**: React, Next.js, Redux, React Query, React Router, Formik, Yup
+- **Languages**: JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks & Libraries**: React, Redux, React Query, React Router, Formik, Yup, Next.js,
 - **Testing**: Vitest, Testing Library, Cypress
 - **Styling**: SCSS, CSS Modules, React-JSS
 - **Build & Tooling**: Vite, Docker, GitHub Actions
