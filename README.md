@@ -28,8 +28,8 @@ I'm Alexandros, a frontend developer focused on building performant, responsive,
 - **Other**: Git, Linux, Figma, Microsoft Office
 - 
 ### 🚀 Featured Projects
+- 💡 [CineMagic (Vanilla TS)](https://github.com/Alexandros00/cinemagic-tmdb-js-ts) – The same app reimplemented in vanilla JavaScript/TypeScript for comparison
 - 🎬 [CineMagic (React + TypeScript)](https://github.com/Alexandros00/cinemagic-tmdb-react-ts) – A movie browsing app built using TMDb API
 - 🐱 [Catopia](https://github.com/Alexandros00/catopia-thecatapi-react-ts) – A responsive image-based app using The Cat API
-- 💡 [CineMagic (Vanilla TS)](https://github.com/Alexandros00/cinemagic-tmdb-js-ts) – The same app reimplemented in vanilla JavaScript/TypeScript for comparison
 
 I'm currently expanding these projects with testing, performance optimization, and better structure — feel free to check them out!
