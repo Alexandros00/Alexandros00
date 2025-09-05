@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Hi there 👋
 
-I'm Alexandros, a frontend developer focused on building performant, responsive, and accessible web applications using React, TypeScript, and modern tooling.
+I'm Alexandros, a Frontend Engineer focused on building performant, responsive, and accessible web applications using React, TypeScript, and modern tooling.
 
 ## 🛠️ Tech Stack
 
